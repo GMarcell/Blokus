@@ -12,7 +12,7 @@ java Blokus.java
 in your preferred commandline.
 
 ### Issues
-- Window needs to be unmaximied first, then maximized again to show it properly.
+~~- Window needs to be unmaximied first, then maximized again to show it properly.~~
 
 ### To be implemented
 - Place blocks
