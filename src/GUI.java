@@ -618,6 +618,8 @@ public class GUI{
         blokusFrame.add(playerOneTwoPanel, BorderLayout.WEST);
         blokusFrame.add(playerThreeFourPanel, BorderLayout.EAST);
         blokusFrame.add(boardPanel, BorderLayout.CENTER);
+        blokusFrame.revalidate();
+        blokusFrame.repaint();
     }
 
     public static void main(String[] args) {
